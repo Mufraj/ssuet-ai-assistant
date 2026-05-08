@@ -18,7 +18,7 @@ An AI-inspired university chatbot developed for SSUET.
 - Express.js
 
 ## Screenshot
-<img width="477" height="587" alt="thumd" src="https://github.com/user-attachments/assets/af4747b5-9770-4bf3-84d1-46591dd51d75" />
+<img width="610" height="598" alt="chatbot" src="https://github.com/user-attachments/assets/8134916e-0243-4429-955f-7ea01efe1889" />
 
 
 ## Developer
